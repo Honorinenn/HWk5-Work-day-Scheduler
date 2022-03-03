@@ -32,6 +32,9 @@ Then the user can click into a time block and enter an event
 When clicked on the save button on the right for that time block, then the text for that event is saved in local storage
 When the page is refreshed, the saved events persist
 
+<img width="949" alt="scheduler" src="https://user-images.githubusercontent.com/87605893/156618079-0f925513-94a0-466f-847b-7e7c2af42586.png">
+
+
 
 ## Tecnologies
 1. Moment.js
