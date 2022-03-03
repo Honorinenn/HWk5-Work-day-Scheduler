@@ -16,6 +16,8 @@ This application is a calendar app that allows a user to save events for each ho
 7. [Questions](#questions)
 
 ## Installation
+1. Clone repository from github to your local repository.
+2. Open the index.html page to view on your browser.
 
 
 ## Usage
