@@ -9,15 +9,23 @@ This application is a calendar app that allows a user to save events for each ho
 ## Table of Contents:
 1. [Installation](#installation)
 2. [Usage](#usage)
-3. [License](#license)
-4. [Contributing](#contributing)
-5. [Tests](#tests)
-6. [Questions](#questions)
+3. [Technologies](#technologies)
+4. [License](#license)
+5. [Contributing](#contributing)
+6. [Tests](#tests)
+7. [Questions](#questions)
 
 ## Installation
 
 
 ## Usage
+
+
+## Tecnologies
+1. Moment.js
+2. jQuery
+3. HTML
+4. CSS
 
 
 ## License
