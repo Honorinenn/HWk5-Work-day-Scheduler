@@ -22,6 +22,16 @@ This application is a calendar app that allows a user to save events for each ho
 
 ## Usage
 
+When the scheduler is openned, the current day is displayed at the top of the calendar.
+While scrolling through, the user is presented with time blocks for standard business hours (from 9AM to 5PM)
+When the user views the time blocks for that day, each time block is color-coded to indicate whether it is in the past, present, or future
+Past
+Present
+Future
+Then the user can click into a time block and enter an event
+When clicked on the save button on the right for that time block, then the text for that event is saved in local storage
+When the page is refreshed, the saved events persist
+
 
 ## Tecnologies
 1. Moment.js
